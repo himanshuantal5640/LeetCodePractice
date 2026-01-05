@@ -14,7 +14,7 @@ public:
             }
         }
 
-        if(neg % 2) sum -= maxValue * 2;
+        if(neg % 2 != 0) sum -= maxValue * 2;
 
         return sum;
     }
