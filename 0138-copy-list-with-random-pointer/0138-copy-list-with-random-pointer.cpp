@@ -17,15 +17,14 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(head == NULL){
-            return head;
+        if(head == nullptr){
+            return nullptr;
         }
-        unordered_map<Node*,Node*> mpp;//for random pointer store addres of old and new node
+        unordered_map<Node*,Node*> mpp;
         Node* newHead = new Node(head->val);
-        Node* oldTemp = head->next;//head->next bcz we already created copy of head
+        Node* oldTemp = head->next;
         Node* newTemp = newHead;
         mpp[head] = newHead;
-        //step 1 is copy LL
         while(oldTemp != NULL){
             Node* copyNode = new Node(oldTemp->val);
             mpp[oldTemp] = copyNode;
@@ -33,14 +32,13 @@ public:
             oldTemp = oldTemp->next;
             newTemp = newTemp->next;
         }
-        //traverse again for random pointer
         oldTemp = head;
         newTemp = newHead;
         while(oldTemp != NULL){
             newTemp->random = mpp[oldTemp->random];
-            newTemp = newTemp->next;
             oldTemp = oldTemp->next;
-        }
+            newTemp = newTemp->next;
+        } 
         return newHead;
     }
 };
