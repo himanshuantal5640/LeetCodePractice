@@ -1,39 +1,35 @@
 class MyStack {
-    queue<int> q;
 public:
+    queue<int> q1;
+    queue<int> q2;
     MyStack() {
         
     }
     
     void push(int x) {
-        q.push(x);
-        int s = q.size();
-         // Rotate the queue to bring the new element to the front
-        for (int i = 0; i < s - 1; i++) {
-            q.push(q.front());
-            q.pop();
+        while(!q1.empty()){
+            q2.push(q1.front());
+            q1.pop();
+        }
+        q1.push(x);
+        while(!q2.empty()){
+            q1.push(q2.front());
+            q2.pop();
         }
     }
     
     int pop() {
-        if(q.size() == 0){
-            return -1;
-        }
-        int s = q.front();
-        q.pop();
-        return s;
+        int m = q1.front();
+        q1.pop();
+        return m;
     }
     
     int top() {
-        if(q.size() == 0){
-            return -1;
-        }
-        return q.front(); 
-        
+        return q1.front();
     }
     
     bool empty() {
-        return q.empty();
+        return q1.empty();
     }
 };
 
