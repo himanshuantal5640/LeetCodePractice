@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ // longest length between node is called diameter
 class Solution {
 public:
     int height(TreeNode* a){
