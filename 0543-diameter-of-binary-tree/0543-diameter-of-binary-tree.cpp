@@ -9,24 +9,23 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
- // longest length between node is called diameter
 class Solution {
 public:
-    int height(TreeNode* a){
-        if(a == NULL){
+    int height(TreeNode* root){
+        if(root == NULL){
             return 0;
         }
-        int leftHieght = height(a->left);
-        int rightHieght = height(a->right);
-        return max(leftHieght,rightHieght) + 1;
+        int lh = height(root->left);
+        int rh = height(root->right);
+        return max(lh,rh) + 1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root == NULL){
             return 0;
         }
-        int leftDiameter = diameterOfBinaryTree(root->left);
-        int rightDiameter = diameterOfBinaryTree(root->right);
-        int currDiameter = height(root->right) + height(root->left);
-        return max(currDiameter,max(leftDiameter,rightDiameter));
+        int leftH = diameterOfBinaryTree(root->left);
+        int rightH = diameterOfBinaryTree(root->right);
+        int curr = height(root->left) + height(root->right);
+        return max(curr,max(leftH,rightH));
     }
 };
