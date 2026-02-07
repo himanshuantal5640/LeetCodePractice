@@ -13,21 +13,21 @@ class Solution {
 public:
     int minDiffInBST(TreeNode* root) {
         stack<TreeNode*> st;
-        TreeNode* cur = root;
+        TreeNode* curr = root;
         int prev = -1;
         int ans = INT_MAX;
-        while(cur != NULL || !st.empty()){
-            while(cur != NULL){
-                st.push(cur);
-                cur = cur->left;
+        while(curr != NULL || !st.empty()){
+            while(curr != NULL){
+                st.push(curr);
+                curr = curr->left;
             }
-            cur = st.top();
+            curr = st.top();
             st.pop();
             if(prev != -1){
-                ans = min(ans,cur->val - prev);
+                ans = min(ans,curr->val - prev);
             }
-            prev = cur->val;
-            cur = cur->right;
+            prev = curr->val;
+            curr = curr->right;
         }
         return ans;
     }
