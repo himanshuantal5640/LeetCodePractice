@@ -13,7 +13,7 @@ class Solution {
 public:
     int findBottomLeftValue(TreeNode* root) {
         if(root == NULL){
-            return NULL;
+            return 0;
         }
         queue<TreeNode*> q;
         q.push(root);
