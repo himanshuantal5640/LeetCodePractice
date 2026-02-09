@@ -20,7 +20,7 @@ public:
         return -1;
     }
     TreeNode* helper(vector<int>& inorder, vector<int>& postorder,int& postIdx,int left,int right){
-        if(left>right){
+        if(left > right){
             return NULL;
         }
         TreeNode* root = new TreeNode(postorder[postIdx]);
@@ -31,7 +31,8 @@ public:
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        int postIdx = postorder.size()-1;
-        return helper(inorder,postorder,postIdx,0,postorder.size()-1);
+        int n = postorder.size();
+        int postIdx = n-1;
+        return helper(inorder,postorder,postIdx,0,n-1);
     }
 };
