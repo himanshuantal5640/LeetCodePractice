@@ -26,7 +26,7 @@ public:
         TreeNode* root = new TreeNode(preorder[preIdx]);
         int idx = search(inorder,left,right,preorder[preIdx]);
         preIdx++;
-        root->left = helper(preorder,inorder,preIdx,left,idx - 1);
+        root->left = helper(preorder,inorder,preIdx,left,idx-1);
         root->right = helper(preorder,inorder,preIdx,idx+1,right);
         return root;
     }
