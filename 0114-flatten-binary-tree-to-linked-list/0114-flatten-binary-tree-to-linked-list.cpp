@@ -10,10 +10,7 @@
  * };
  */
 class Solution {
-    // we cannot directly build LinkedList using preorder so we use reverse preorder
-    // we have to make global nextRight so that on every recursive we keep a track of nextRight
 public:
-
     TreeNode* nextRight = NULL;
     void flatten(TreeNode* root) {
         if(root == NULL){
