@@ -14,19 +14,14 @@ public:
         if(root == NULL){
             return root;
         }
-        if(root->val == p->val || root->val == q->val){
-            return root;
+        if(root->val > p->val && root->val > q->val){
+            return lowestCommonAncestor(root->left,p,q);
         }
-        TreeNode* leftLCA = lowestCommonAncestor(root->left,p,q);
-        TreeNode* rightLCA = lowestCommonAncestor(root->right,p,q);
-        if(leftLCA && rightLCA){
-            return root;
-        }
-        else if(leftLCA != NULL){
-            return leftLCA;
+        else if(root->val < p->val && root->val < q->val){
+            return lowestCommonAncestor(root->right,p,q);
         }
         else{
-            return rightLCA;
+            return root; //LCA
         }
     }
 };
