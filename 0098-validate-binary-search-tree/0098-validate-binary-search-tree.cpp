@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* root,TreeNode* min,TreeNode* max){
+    bool helper(TreeNode* root,TreeNode* min, TreeNode* max){
         if(root == NULL){
             return true;
         }
