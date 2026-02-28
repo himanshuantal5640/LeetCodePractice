@@ -1,19 +1,19 @@
 class Solution {
 public:
-    bool dfs(int row,int col,int pr,int pc,int n,int m,vector<vector<bool>> &vis,vector<vector<char>>& grid){
-        vis[row][col] = true;
-        int dr[4] = {-1,0,1,0};
-        int dc[4] = {0,1,0,-1};
+    bool dfs(int r,int c,int pr,int pc,int n,int m,vector<vector<bool>> &vis,vector<vector<char>>& grid){
+        vis[r][c] = true;
+        int dr[] = {-1,0,1,0};
+        int dc[] = {0,1,0,-1};
         for(int i=0;i<4;i++){
-            int newRow = row + dr[i];
-            int newCol = col + dc[i];
-            if(newRow >= 0 && newRow < n && newCol >=0 && newCol < m && grid[newRow][newCol] == grid[row][col]){
-                if(!vis[newRow][newCol]){
-                    if(dfs(newRow,newCol,row,col,n,m,vis,grid)){
+            int nr = r + dr[i];
+            int nc = c + dc[i];
+            if(nr >= 0 && nr < n && nc>= 0 && nc < m && grid[nr][nc] == grid[r][c]){
+                if(!vis[nr][nc]){
+                    if(dfs(nr,nc,r,c,n,m,vis,grid)){
                         return true;
                     }
                 }
-                else if(newRow != pr || newCol != pc){
+                else if(nr != pr || nc != pc){
                     return true;
                 }
             }
