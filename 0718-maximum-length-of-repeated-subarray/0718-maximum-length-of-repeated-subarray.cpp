@@ -5,7 +5,7 @@ public:
             return 0;
         }
         if(dp[i][j] != -1){
-            return dp[][j];
+            return dp[i][j];
         }
         int len = 0;
         if(nums1[i] == nums2[j]){
