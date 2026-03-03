@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
