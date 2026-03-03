@@ -12,8 +12,7 @@ public:
         if(tar >= nums[i]){
             take = helper(i+1,tar-nums[i],dp,nums);
         }
-        return dp[i][tar] = take + notTake;
-
+        return dp[i][tar] = notTake + take; 
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
@@ -21,13 +20,13 @@ public:
         for(int n:nums){
             sum += n;
         }
-        if(abs(target) > sum ){
+        if(abs(target) > sum){
             return 0;
         }
-        if((target + sum) %2 != 0){
+        if((target+sum)%2 != 0){
             return 0;
         }
-        int newTar = (target + sum)/2;
+        int newTar = (sum + target)/2;
         vector<vector<int>> dp(n,vector<int>(newTar+1,-1));
         return helper(0,newTar,dp,nums);
     }
