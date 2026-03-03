@@ -13,23 +13,21 @@ public:
         bool notTake = helper(i+1,tar,dp,nums);
         bool take = false;
         if(tar >= nums[i]){
-            take = helper(i+1,tar - nums[i],dp,nums);
+            take = helper(i+1,tar-nums[i],dp,nums);
         }
-        dp[i][tar] = take || notTake;
-        return dp[i][tar];
-
+        return dp[i][tar] = notTake || take;
     }
     bool canPartition(vector<int>& nums) {
-        int sum = 0;
         int n = nums.size();
-        for(int n : nums){
+        int sum = 0;
+        for(int n:nums){
             sum += n;
         }
         if(sum % 2 != 0){
             return false;
         }
-        int tar = sum/2;
-        vector<vector<int>> dp(n,vector<int>(tar+1,-1));
-        return helper(0,tar,dp,nums);
+        int s = sum/2;
+        vector<vector<int>> dp(n,vector<int>(s+1,-1));
+        return helper(0,s,dp,nums);
     }
 };
