@@ -1,20 +1,21 @@
 class Solution {
 public:
     int solve(int i,int j,vector<int>& nums1, vector<int>& nums2,vector<vector<int>> &dp,int &maxi){
-        if(i == nums1.size() || j == nums2.size()){
+        if(i >= nums1.size() || j >= nums2.size()){
             return 0;
         }
         if(dp[i][j] != -1){
-            return dp[i][j];
+            return dp[][j];
         }
-        int length = 0;
+        int len = 0;
         if(nums1[i] == nums2[j]){
-            length = 1 + solve(i+1,j+1,nums1,nums2,dp,maxi);
-            maxi = max(maxi,length);
-        }else{
-            length = 0;
+            len = 1 + solve(i+1,j+1,nums1,nums2,dp,maxi);
+            maxi = max(maxi,len);
         }
-        dp[i][j] = length;
+        else{
+            len = 0;
+        }
+        dp[i][j] = len;
         solve(i+1,j,nums1,nums2,dp,maxi);
         solve(i,j+1,nums1,nums2,dp,maxi);
         return dp[i][j];
