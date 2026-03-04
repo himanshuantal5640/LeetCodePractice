@@ -14,8 +14,8 @@ public:
             return dp[i][j] = solve(i-1,j-1,s1,s2,dp);
         }
         return dp[i][j] = 1 + min(solve(i,j-1,s1,s2,dp),//insert
-                                  min(solve(i-1,j,s1,s2,dp),//replace
-                                      solve(i-1,j-1,s1,s2,dp)));//delete
+                                  min(solve(i-1,j,s1,s2,dp),//delete
+                                      solve(i-1,j-1,s1,s2,dp)));//replace
     }
     int minDistance(string word1, string word2) {
         int n = word1.size();
