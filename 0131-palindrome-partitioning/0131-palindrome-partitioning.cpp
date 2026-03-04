@@ -13,25 +13,16 @@ public:
         return true;
     }
     void solve(int i, int n, string& s, vector<string>& path,vector<vector<string>>& ans) {
-
-        if (i == n) {
+        if(i == n){
             ans.push_back(path);
-            return;
         }
-
         string temp = "";
-
-        for (int j = i; j < n; j++) {
-
+        for(int j=i;j<n;j++){
             temp += s[j];
-
-            if (isPalindrome(temp)) {
-
+            if(isPalindrome(temp)){
                 path.push_back(temp);
-
-                solve(j + 1, n, s, path, ans);
-
-                path.pop_back(); // backtrack
+                solve(j+1,n,s,path,ans);
+                path.pop_back();
             }
         }
     }
