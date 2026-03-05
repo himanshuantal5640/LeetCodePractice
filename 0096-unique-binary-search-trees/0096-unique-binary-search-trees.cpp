@@ -7,7 +7,7 @@ public:
         if(dp[n] != -1){
             return dp[n];
         }
-        // think i as root node
+        // think i as an root node
         int ans = 0;
         for(int i=1;i<=n;i++){
             ans += solve(i-1,dp) * solve(n-i,dp);
@@ -15,7 +15,7 @@ public:
         return dp[n] = ans;
     }
     int numTrees(int n) {
-        vector<int> dp(n+1,-1);
-        return solve(n,dp);
+       vector<int< dp(n+1,-1);
+       return solve(n,dp); 
     }
 };
