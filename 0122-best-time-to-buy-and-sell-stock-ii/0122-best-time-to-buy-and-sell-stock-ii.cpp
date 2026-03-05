@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int idx,int buy,vector<int>& prices, vector<vector<int>> &dp){
+    int solve(int idx,int buy, vector<int>& prices,vector<vector<int>> &dp){
         if(idx >= prices.size()){
             return 0;
         }
@@ -9,10 +9,10 @@ public:
         }
         int profit = 0;
         if(buy){
-            profit = max(-prices[idx] + solve(idx+1,0,prices,dp),0 + solve(idx+1,1,prices,dp));
+            profit = max(-prices[idx] + solve(idx+1,0,prices,dp),0+solve(idx+1,1,prices,dp));
         }
         else{
-            profit = max(prices[idx] + solve(idx+1,1,prices,dp), 0+solve(idx+1,0,prices,dp));
+            profit = max(prices[idx] + solve(idx+1,1,prices,dp),0+solve(idx+1,0,prices,dp));
         }
         return dp[idx][buy] = profit;
     }
