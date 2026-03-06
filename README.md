@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Matrix
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -62,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
