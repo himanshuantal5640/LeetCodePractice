@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
