@@ -6,7 +6,7 @@ public:
             return;
         }
         for(int i=idx;i<arr.size();i++){
-            if(i > idx && arr[i] == arr[i-1]){
+            if(i>idx && arr[i] == arr[i-1]){
                 continue;
             }
             if(arr[i] > tar){
