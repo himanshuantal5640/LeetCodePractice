@@ -22,7 +22,7 @@ public:
             temp.push_back(nums[right]);
             right++;
         }
-        //back to original nums from temp
+        // copy back to original
         for(int i=low;i<=high;i++){
             nums[i] = temp[i-low];
         }
