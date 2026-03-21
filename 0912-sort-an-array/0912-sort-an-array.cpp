@@ -1,29 +1,43 @@
 class Solution {
 public:
-    void heapify(vector<int>&nums,int n,int i){
-        int lg = i;
-        int l = 2*i + 1;
-        int r = 2*i + 2;
-        if(l<n && nums[l]>nums[lg]){
-            lg = l;
+    void merge(vector<int>& nums,int low,int mid,int high){
+        vector<int> temp;
+        int left = low;
+        int right = mid+1;
+        while(left <= mid && right <= high){
+            if(nums[left] < nums[right]){
+                temp.push_back(nums[left]);
+                left++;
+            }
+            else{
+                temp.push_back(nums[right]);
+                right++;
+            }
         }
-        if(r<n && nums[r]>nums[lg]){
-            lg = r;
+        while(left <= mid){
+            temp.push_back(nums[left]);
+            left++;
         }
-        if(lg != i){
-            swap(nums[i],nums[lg]);
-            heapify(nums,n,lg);
+        while(right <= high){
+            temp.push_back(nums[right]);
+            right++;
+        }
+        //back to original nums from temp
+        for(int i=low;i<=high;i++){
+            nums[i] = temp[i-low];
         }
     }
+    void mergeSort(vector<int>& nums,int low,int high){
+        if(low >= high){
+            return;
+        }
+        int mid = (low + high)/2;
+        mergeSort(nums,low,mid);
+        mergeSort(nums,mid+1,high);
+        merge(nums,low,mid,high);
+    }
     vector<int> sortArray(vector<int>& nums) {
-        int n = nums.size();
-        for(int i = n/2 -1;i>=0;i--){
-            heapify(nums,n,i);
-        }
-        for(int i=n-1;i>0;i--){
-            swap(nums[0],nums[i]);
-            heapify(nums,i,0);
-        }
+        mergeSort(nums,0,nums.size()-1);
         return nums;
     }
 };
