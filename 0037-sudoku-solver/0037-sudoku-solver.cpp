@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isSafe(vector<vector<char>>& board,int row,int col,char dig){
-        // horizontal
+        //horizontal
         for(int j=0;j<9;j++){
             if(board[row][j] == dig){
                 return false;
@@ -24,7 +24,6 @@ public:
             }
         }
         return true;
-
     }
     bool SS(vector<vector<char>>& board,int row,int col){
         if(row == 9){
