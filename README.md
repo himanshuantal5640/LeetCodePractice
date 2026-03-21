@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
@@ -211,4 +214,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
