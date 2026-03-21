@@ -1,26 +1,26 @@
 class Solution {
 public:
     bool isSafe(vector<string> &chess,int row,int col,int n){
-        //horizontal
+        // horizontal
         for(int j=0;j<n;j++){
             if(chess[row][j] == 'Q'){
                 return false;
             }
         }
-        //verticall
+        //vertical
         for(int i=0;i<n;i++){
             if(chess[i][col] == 'Q'){
                 return false;
             }
         }
-        //left diagonal
-        for(int i=row,j=col; i>=0&&j>=0;i--,j--){
+        //left Diagonal
+        for(int i=row,j=col;i>=0 && j>=0;i--,j--){
             if(chess[i][j] == 'Q'){
                 return false;
             }
         }
-        //right daigonal
-        for(int i=row,j=col;i>=0&&j<n;i--,j++){
+        //right diagonal
+        for(int i=row,j=col;i>=0 && j<n;i--,j++){
             if(chess[i][j] == 'Q'){
                 return false;
             }
