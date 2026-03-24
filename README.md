@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0322-coin-change/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
+| [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
