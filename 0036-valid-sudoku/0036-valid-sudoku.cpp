@@ -22,8 +22,8 @@ public:
                 //check 3X3 grid
                 int sr = (row/3)*3;
                 int sc = (col/3)*3;
-                for(int i=sr;i<sr+2;i++){
-                    for(int j=sc;j<sc+2;j++){
+                for(int i=sr;i<=sr+2;i++){
+                    for(int j=sc;j<=sc+2;j++){
                         if((i != row || j != col) && board[i][j] == dig){
                             return false;
                         }
