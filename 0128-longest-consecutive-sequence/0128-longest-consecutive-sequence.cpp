@@ -7,13 +7,13 @@ public:
             if(st.find(s - 1) == st.end()){
                 int curr = s;
                 int cnt = 1;
-                while(st.find(curr + 1) != st.end()){
+                while(st.find(curr+1) != st.end()){
                     curr++;
                     cnt++;
                 }
                 maxi = max(maxi,cnt);
             }
-        }
+        }  
         return maxi;
     }
 };
