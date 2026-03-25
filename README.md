@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0040-combination-sum-ii/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
