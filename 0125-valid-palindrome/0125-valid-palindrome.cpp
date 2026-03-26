@@ -10,7 +10,7 @@ public:
             while(l < r && !isalnum(s[r])){
                 r--;
             }
-            while(tolower(S[l]) != tolower(s[r])){
+            while(tolower(s[l]) != tolower(s[r])){
                 return false;
             }
             l++;
