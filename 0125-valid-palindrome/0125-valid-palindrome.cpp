@@ -4,10 +4,10 @@ public:
         int l = 0;
         int r = s.size() - 1;
         while(l < r){
-            while(l < r && !isalnum(s[l])){
+            while(l<r && !isalnum(s[l])){
                 l++;
             }
-            while(l < r && !isalnum(s[r])){
+            while(l<r && !isalnum(s[r])){
                 r--;
             }
             while(tolower(s[l]) != tolower(s[r])){
