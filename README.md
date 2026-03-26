@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0090-subsets-ii/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
@@ -308,4 +311,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
