@@ -3,7 +3,7 @@
 class Solution {
 public:
     bool isSame(int a[],int b[]){
-        for(int i = 0;i<26;i++){
+        for(int i=0;i<26;i++){
             if(a[i] != b[i]){
                 return false;
             }
@@ -12,7 +12,7 @@ public:
     }
     bool checkInclusion(string s1, string s2) {
         int f[26] = {0};
-        for(int i = 0;i<s1.size();i++){
+        for(int i=0;i<s1.size();i++){
             f[s1[i] - 'a']++;
         }
         int windSize = s1.size();
