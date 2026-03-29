@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0704-binary-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
