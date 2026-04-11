@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
