@@ -10,7 +10,7 @@ public:
         if(s1[i] == s2[j]){
             return dp[i][j] = 1 + solve(i+1,j+1,s1,s2,dp);
         }
-        return dp[i][j] =  max(solve(i+1,j,s1,s2,dp),solve(i,j+1,s1,s2,dp));
+        return dp[i][j] = max(solve(i+1,j,s1,s2,dp),solve(i,j+1,s1,s2,dp));
     }
     int longestCommonSubsequence(string text1, string text2) {
         int n = text1.size();
