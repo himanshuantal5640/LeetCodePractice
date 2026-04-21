@@ -8,7 +8,7 @@ public:
             if(nums[m] == target){
                 return m;
             }
-            else if(nums[s] <= nums[m]){
+            if(nums[s] <= nums[m]){
                 if(nums[s] <= target && target <= nums[m]){
                     r = m - 1;
                 }
@@ -17,7 +17,7 @@ public:
                 }
             }
             else{
-                if(target <= nums[r] && nums[m] >= target){
+                if(target <= nums[r] && nums[m] <= target){
                     s = m + 1;
                 }
                 else{
