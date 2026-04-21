@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
