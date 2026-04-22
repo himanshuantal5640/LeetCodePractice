@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -440,5 +441,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
