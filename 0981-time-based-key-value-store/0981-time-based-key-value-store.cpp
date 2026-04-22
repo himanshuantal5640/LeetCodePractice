@@ -1,6 +1,6 @@
 class TimeMap {
 public:
-    unordered_map<string,vector<pair<int,string>>> mp; //(key,value, timestamp)
+    unordered_map<string,vector<pair<int,string>>> mp; // (key,value,timestamp)
     TimeMap() {
         
     }
@@ -15,7 +15,7 @@ public:
         }
         auto &v = mp[key];
         int l = 0;
-        int r = v.size()-1;
+        int r = v.size() - 1;
         string ans = "";
         while(l <= r){
             int m = (l+r)/2;
