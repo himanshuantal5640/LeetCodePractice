@@ -11,9 +11,6 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        if(head == NULL || head->next == NULL){
-            return;
-        }
         //step 1: find middle
         ListNode* slow = head;
         ListNode* fast = head;
@@ -22,7 +19,7 @@ public:
             fast = fast->next->next;
         }
 
-        //step 2: reverse second half
+        //step 2 : reverse second half
         ListNode* prev = NULL;
         ListNode* curr = slow->next;
         slow->next = NULL;
@@ -33,16 +30,17 @@ public:
             curr = nextNode;
         }
 
-        // step 3 : Merge Two List;
-        ListNode* first = head;
-        ListNode* second = prev;
-        while(second != NULL){
-            ListNode* t1 = first->next;
-            ListNode* t2 = second->next;
-            first->next = second;
-            second->next = t1;
-            first = t1;
-            second = t2;
+        //step 3:  merge two halfs
+        ListNode* f = head;
+        ListNode* s = prev;
+        while(s != NULL){
+            ListNode* t1 = f->next;
+            ListNode* t2 = s->next;
+            f->next = s;
+            s->next = t1;
+            f = t1;
+            s = t2;
+
         }
     }
 };
