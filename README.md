@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0242-valid-anagram/) | Easy |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0206-reverse-linked-list/) | Easy |
