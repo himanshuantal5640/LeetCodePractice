@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0090-subsets-ii/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
