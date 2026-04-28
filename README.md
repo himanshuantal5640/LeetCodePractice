@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1447-simplified-fractions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1447-simplified-fractions/) | Medium |
