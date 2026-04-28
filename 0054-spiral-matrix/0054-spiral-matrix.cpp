@@ -9,31 +9,30 @@ public:
         int l = 0;
         int r = m-1;
         while(t <= b && l <= r){
-            //l -> r
-            for(int i = l;i<=r;i++){
+            //left -> right
+            for(int i=l;i<=r;i++){
                 re.push_back(matrix[t][i]);
             }
             t++;
-            //t->b
-            for(int i = t;i<=b;i++){
+            //top -> bottom
+            for(int i=t;i<=b;i++){
                 re.push_back(matrix[i][r]);
             }
             r--;
-            //r->l
+            //right -> left
             if(t <= b){
-                for(int i = r;i>=l;i--){
+                for(int i=r;i>=l;i--){
                     re.push_back(matrix[b][i]);
                 }
                 b--;
             }
-            // b -> t
+            //bottom -> top
             if(l <= r){
-                for(int i = b;i>=t;i--){
+                for(int i=b;i>=t;i--){
                     re.push_back(matrix[i][l]);
                 }
                 l++;
             }
-
         }
         return re;
     }
