@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
