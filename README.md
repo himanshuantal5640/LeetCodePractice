@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0338-counting-bits/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
