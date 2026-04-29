@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0020-valid-parentheses/) | Easy |
+| [0043-multiply-strings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0072-edit-distance/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0002-add-two-numbers/) | Medium |
+| [0043-multiply-strings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0066-plus-one/) | Easy |
