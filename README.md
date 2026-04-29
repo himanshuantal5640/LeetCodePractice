@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
