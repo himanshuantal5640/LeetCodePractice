@@ -3,7 +3,7 @@ public:
     int getSum(int a, int b) {
         while(b != 0){
             int c = (a&b)<<1;
-            a = a^b;
+            a = a^b;//sum without carry
             b = c;
         }
         return a;
