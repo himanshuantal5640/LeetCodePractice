@@ -22,12 +22,12 @@ public:
         }
         temp->next = head;
         k%=n;
-        int e = n - k;
+        int e = n-k;
         while(e--){
             temp = temp->next;
         }
         head = temp->next;
-        temp->next = NULL;
+        temp->next  = NULL;
         return head;
     }
 };
