@@ -5,7 +5,7 @@ public:
         int pre = 1;
         int suf = 1;
         int ans = INT_MIN;
-        for(int i =0;i<n;i++){
+        for(int i=0;i<n;i++){
             if(pre == 0){
                 pre = 1;
             }
