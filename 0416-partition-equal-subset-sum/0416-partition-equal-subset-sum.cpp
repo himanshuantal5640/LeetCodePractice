@@ -23,7 +23,7 @@ public:
         for(int x:nums){
             sum += x;
         }
-        if(sum % 2 != 0){
+        if(sum%2 != 0){
             return false;
         }
         int s = sum/2;
