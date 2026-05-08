@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int solve(int idx,int prev,vector<int>& nums,vector<vector<int>> &dp){
-        if(idx >= nums.size()){
+    int solve(int i,int prev,vector<int>& nums,vector<vector<int>>& dp){
+        if(i >= nums.size()){
             return 0;
         }
-        if(dp[idx][prev+1] != -1){
-            return dp[idx][prev+1];
+        if(dp[i][prev+1] != -1){
+            return dp[i][prev+1];
         }
-        int len = solve(idx+1,prev,nums,dp); // not take
-        if(prev == -1 || nums[idx] > nums[prev]){// take
-            len = max(len,1+solve(idx+1,idx,nums,dp));
+        int len = solve(i+1,prev,nums,dp);//not take;
+        if(prev == -1 ||nums[i] > nums[prev]){
+            len = max(len,1+solve(i+1,i,nums,dp));
         }
-        return dp[idx][prev+1] = len;
+        return dp[i][prev+1] = len;
     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
