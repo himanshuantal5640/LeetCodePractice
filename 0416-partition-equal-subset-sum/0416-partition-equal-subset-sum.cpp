@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool helper(int i,int tar,vector<vector<int>> &dp,vector<int> &nums){
+    bool solve(int i,int tar,vector<int>& nums,vector<vector<int>>& dp){
         if(i >= nums.size()){
             return false;
         }
@@ -10,24 +10,24 @@ public:
         if(dp[i][tar] != -1){
             return dp[i][tar];
         }
-        bool notTake = helper(i+1,tar,dp,nums);
+        bool notTake = solve(i+1,tar,nums,dp);
         bool take = false;
         if(tar >= nums[i]){
-            take = helper(i+1,tar-nums[i],dp,nums);
+            take = solve(i+1,tar-nums[i],nums,dp);
         }
-        return dp[i][tar] = notTake || take;
+        return dp[i][tar] = take || notTake;
     }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int sum = 0;
-        for(int n:nums){
-            sum += n;
+        for(int x:nums){
+            sum += x;
         }
         if(sum % 2 != 0){
             return false;
         }
         int s = sum/2;
         vector<vector<int>> dp(n,vector<int>(s+1,-1));
-        return helper(0,s,dp,nums);
+        return solve(0,s,nums,dp);
     }
 };
