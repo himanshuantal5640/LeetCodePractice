@@ -12,8 +12,8 @@ public:
             if(suf == 0){
                 suf = 1;
             }
-            pre = pre * nums[i];
-            suf = suf * nums[n-i-1];
+            pre = pre*nums[i];
+            suf = suf*nums[n-i-1];
             ans = max(ans,max(pre,suf));
         }
         return ans;
