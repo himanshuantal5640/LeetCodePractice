@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i,int tar,vector<int>& coins,vector<vector<int>> &dp){
+    int solve(int i,int tar,vector<int>& coins,vector<vector<int>>& dp){
         if(i >= coins.size()){
             return 1e9;
         }
@@ -13,7 +13,7 @@ public:
         int notTake = solve(i+1,tar,coins,dp);
         int take = 1e9;
         if(tar >= coins[i]){
-            take = 1 + solve(i,tar - coins[i],coins,dp);
+            take = 1 + solve(i,tar-coins[i],coins,dp);
         }
         return dp[i][tar] = min(take,notTake);
     }
@@ -21,6 +21,6 @@ public:
         int n = coins.size();
         vector<vector<int>> dp(n,vector<int>(amount+1,-1));
         int ans = solve(0,amount,coins,dp);
-        return ans >= 1e9 ? -1 : ans;
+        return ans >= 1e9 ? -1:ans;
     }
 };
