@@ -7,17 +7,17 @@ public:
         }
         int p2 = 1;
         int p1 = 1;
-        for(int i = 1;i<n;i++){
-            int cur = 0;
+        for(int i=1;i<n;i++){
+            int c = 0;
             if(s[i] != '0'){
-                cur += p1;
+                c += p1;
             }
-            int twoDigit = (s[i-1] - '0')*10 + (s[i] - '0');
-            if(twoDigit >= 10 && twoDigit <= 26){
-                cur += p2;
+            int two = (s[i-1] - '0')*10 + (s[i] - '0');
+            if(two >= 10 && two <= 26){
+                c += p2;
             }
             p2 = p1;
-            p1 = cur;
+            p1 = c;
         }
         return p1;
     }
