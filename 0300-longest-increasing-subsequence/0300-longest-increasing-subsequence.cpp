@@ -7,9 +7,9 @@ public:
         if(dp[i][prev+1] != -1){
             return dp[i][prev+1];
         }
-        int len = solve(i+1,prev,nums,dp);//not take;
-        if(prev == -1 ||nums[i] > nums[prev]){
-            len = max(len,1+solve(i+1,i,nums,dp));
+        int len = solve(i+1,prev,nums,dp);///not take
+        if(prev == -1 || nums[i] > nums[prev]){
+            len = max(len,1+solve(i+1,i,nums,dp));//take
         }
         return dp[i][prev+1] = len;
     }
