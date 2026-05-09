@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
+| [0062-unique-paths](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0091-decode-ways/) | Medium |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -598,4 +600,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0139-word-break/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
