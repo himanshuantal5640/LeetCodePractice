@@ -2,7 +2,7 @@ class Solution {
 public:
     int solve(int i,int tar,vector<int>& in,vector<vector<int>>& dp){
         if(i >= in.size()){
-            return tar==0?1:0;
+            return tar == 0? 1:0;
         }
         if(dp[i][tar] != -1){
             return dp[i][tar];
