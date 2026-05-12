@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool solve(int i,int j,string& s1, string& s2, string& s3,vector<vector<int>>& dp){
+    bool solve(int i,int j,string s1, string s2, string s3,vector<vector<int>>& dp){
         if(i == s1.size() && j == s2.size()){
             return true;
         }
@@ -22,8 +22,8 @@ public:
     bool isInterleave(string s1, string s2, string s3) {
         int n = s1.size();
         int m = s2.size();
-        int l = s3.size();
-        if(n + m != l){
+        int p = s3.size();
+        if(n + m != p){
             return false;
         }
         vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
