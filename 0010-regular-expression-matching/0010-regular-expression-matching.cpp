@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool solve(int i, int j, string& s, string& p, vector<vector<int>>& dp) {
-        // Pattern exhausted
         if (j == p.size()) {
             return i == s.size();
         }
@@ -14,9 +13,7 @@ public:
             firstMatch = true;
         }
         bool ans = false;
-        // Check for '*'
         if (j + 1 < p.size() && p[j + 1] == '*') {
-            // Skip pattern OR use pattern
             ans = solve(i, j + 2, s, p, dp) ||
                   (firstMatch && solve(i + 1, j, s, p, dp));
         }
