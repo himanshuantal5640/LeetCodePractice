@@ -8,7 +8,7 @@ public:
             return dp[i][j];
         }
         int maxi = INT_MIN;
-        for(int idx = i;idx<=j;idx++){
+        for(int idx = i;idx <= j;idx++){
             int cost = nums[i-1]*nums[idx]*nums[j+1] + solve(i,idx-1,nums,dp) + solve(idx+1,j,nums,dp);
             maxi = max(maxi,cost);
         }
