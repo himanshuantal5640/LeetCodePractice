@@ -1,10 +1,10 @@
 class Solution {
 public:
-    int solve(int i,int j,string s1, string s2,vector<vector<int>>& dp){
-        if(i < 0){
+    int solve(int i,int j,string s1,string s2,vector<vector<int>>& dp){
+        if(i<0){
             return j+1;
         }
-        if(j < 0){
+        if(j<0){
             return i+1;
         }
         if(dp[i][j] != -1){
@@ -13,8 +13,8 @@ public:
         if(s1[i] == s2[j]){
             return dp[i][j] = solve(i-1,j-1,s1,s2,dp);
         }
-        return dp[i][j] = 1 + min(solve(i,j-1,s1,s2,dp),//insert
-                                  min(solve(i-1,j,s1,s2,dp),//delete
+        return dp[i][j] = 1 + min(solve(i-1,j,s1,s2,dp),//delete
+                                min(solve(i,j-1,s1,s2,dp),//insert
                                     solve(i-1,j-1,s1,s2,dp)));//replace
     }
     int minDistance(string word1, string word2) {
