@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i,int j,vector<int>& c,vector<vector<int>> &dp){
+    int solve(int i,int j,vector<int>& nums,vector<vector<int>>& dp){
         if(i > j){
             return 0;
         }
@@ -8,8 +8,8 @@ public:
             return dp[i][j];
         }
         int maxi = INT_MIN;
-        for(int idx = i;idx <= j;idx++){
-            int cost = c[i-1] * c[idx] * c[j+1] + solve(i,idx-1,c,dp) + solve(idx+1,j,c,dp);
+        for(int idx = i;idx<=j;idx++){
+            int cost = nums[i-1]*nums[idx]*nums[j+1] + solve(i,idx-1,nums,dp) + solve(idx+1,j,nums,dp);
             maxi = max(maxi,cost);
         }
         return dp[i][j] = maxi;
