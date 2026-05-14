@@ -38,7 +38,7 @@ public:
         if(node == NULL){
             return node;
         }
-        unordered_map<Node*,Node*> mp; //{org,copy}
+        unordered_map<Node*,Node*> mp;//{org,copy}
         return solve(node,mp);
     }
 };
