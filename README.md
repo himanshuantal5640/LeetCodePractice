@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0739-daily-temperatures/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -525,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -573,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
