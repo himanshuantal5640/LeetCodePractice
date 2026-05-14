@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
@@ -644,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0133-clone-graph/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
