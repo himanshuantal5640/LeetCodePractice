@@ -21,13 +21,12 @@ public:
 
 class Solution {
 public:
-    Node* helper(Node* node,unordered_map<Node*,Node*> &mp){
+    Node* solve(Node* node,unordered_map<Node*,Node*>& mp){
         Node* newNode = new Node(node->val);
         mp[node] = newNode;
-        for(auto ne : node->neighbors){
-            if(mp.find(ne)== mp.end()){
-                newNode->neighbors.push_back(helper(ne,mp));
-
+        for(auto &ne : node->neighbors){
+            if(mp.find(ne) == mp.end()){
+                newNode->neighbors.push_back(solve(ne,mp));
             }
             else{
                 newNode->neighbors.push_back(mp[ne]);
@@ -37,9 +36,9 @@ public:
     }
     Node* cloneGraph(Node* node) {
         if(node == NULL){
-            return NULL;
+            return node;
         }
-        unordered_map<Node*,Node*> mp; // {orgNode,cloneNode};
-        return helper(node,mp);
+        unordered_map<Node*,Node*> mp; //{org,copy}
+        return solve(node,mp);
     }
 };
