@@ -1,7 +1,7 @@
 class Solution {
 public:
     int dfs(int i,int j,int n,int m,vector<vector<bool>>& vis,vector<vector<int>>& grid){
-        if(i < 0 || j < 0 || i >= n || j >= m || vis[i][j] || grid[i][j] != 1){
+        if(i<0 || j<0 || i>=n ||j>=m || vis[i][j] || grid[i][j] != 1){
             return 0;
         }
         vis[i][j] = true;
