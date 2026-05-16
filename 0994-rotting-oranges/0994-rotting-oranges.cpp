@@ -13,13 +13,12 @@ public:
                 }
             }
         }
-
         while(!q.empty()){
             int i = q.front().first.first;
             int j = q.front().first.second;
             int time = q.front().second;
             q.pop();
-            ans = max(ans,time);
+            ans = max(time,ans);
             if(i-1>=0 && !vis[i-1][j] && grid[i-1][j] == 1){
                 q.push({{i-1,j},time+1});
                 vis[i-1][j] = true;
@@ -32,7 +31,7 @@ public:
                 q.push({{i,j-1},time+1});
                 vis[i][j-1] = true;
             }
-            if(j+1 < m && !vis[i][j+1] && grid[i][j+1] == 1){
+            if(j+1<m && !vis[i][j+1] && grid[i][j+1] == 1){
                 q.push({{i,j+1},time+1});
                 vis[i][j+1] = true;
             }
@@ -45,6 +44,5 @@ public:
             }
         }
         return ans;
-
     }
 };
