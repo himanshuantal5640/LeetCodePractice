@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1861-rotating-the-box/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3488-closest-equal-element-queries/) | Medium |
