@@ -15,22 +15,22 @@ public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         int n = heights.size();
         int m = heights[0].size();
-        vector<vector<bool>> pacific(n,vector<bool>(m,false));
-        vector<vector<bool>> atlantic(n,vector<bool>(m,false));
-        // for row
-        for(int i = 0;i <n ;i++){
-            DFS(i,0,n,m,heights,pacific);//pacific left boundary
-            DFS(i,m-1,n,m,heights,atlantic);//atlantic right boundary
+        vector<vector<bool>> pac(n,vector<bool>(m,false));
+        vector<vector<bool>> atl(n,vector<bool>(m,false));
+        //rows
+        for(int i=0;i<n;i++){
+            DFS(i,0,n,m,heights,pac);//left boundary
+            DFS(i,m-1,n,m,heights,atl);//right boundary
         }
-        // for column
+        //columns
         for(int j=0;j<m;j++){
-            DFS(0,j,n,m,heights,pacific);//pacific top boundary
-            DFS(n-1,j,n,m,heights,atlantic);//atlantic bottom boundary
+            DFS(0,j,n,m,heights,pac);//top boundary
+            DFS(n-1,j,n,m,heights,atl);//bottom boundary
         }
         vector<vector<int>> ans;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(pacific[i][j] && atlantic[i][j]){
+                if(pac[i][j] && atl[i][j]){
                     ans.push_back({i,j});
                 }
             }
