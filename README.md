@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
