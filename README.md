@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -511,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0567-permutation-in-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
