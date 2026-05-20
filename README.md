@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0051-n-queens/) | Hard |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0134-gas-station/) | Medium |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0062-unique-paths/) | Medium |
