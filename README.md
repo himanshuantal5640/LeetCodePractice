@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0242-valid-anagram/) | Easy |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0127-word-ladder](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
