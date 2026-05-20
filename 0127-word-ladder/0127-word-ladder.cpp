@@ -1,6 +1,5 @@
 class Solution {
 public:
-    //This Brute force using BFS traversal
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         queue<pair<string,int>> q;
         q.push({beginWord,1});
@@ -17,7 +16,6 @@ public:
                 char org = str[i];
                 for(char ch = 'a';ch<='z';ch++){
                     str[i] = ch;
-                    //it is exixt in set
                     if(st.find(str) != st.end()){
                         st.erase(str);
                         q.push({str,steps+1});
