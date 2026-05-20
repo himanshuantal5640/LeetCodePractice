@@ -1,0 +1,31 @@
+class Solution {
+public:
+    //This Brute force using BFS traversal
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        queue<pair<string,int>> q;
+        q.push({beginWord,1});
+        unordered_set<string> st(wordList.begin(),wordList.end());
+        st.erase(beginWord);
+        while(!q.empty()){
+            string str = q.front().first;
+            int steps = q.front().second;
+            q.pop();
+            if(str == endWord){
+                return steps;
+            }
+            for(int i=0;i<str.size();i++){
+                char org = str[i];
+                for(char ch = 'a';ch<='z';ch++){
+                    str[i] = ch;
+                    //it is exixt in set
+                    if(st.find(str) != st.end()){
+                        st.erase(str);
+                        q.push({str,steps+1});
+                    }
+                }
+                str[i] = org;
+            }
+        }
+        return 0;
+    }
+};
