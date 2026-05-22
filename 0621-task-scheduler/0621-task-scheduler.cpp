@@ -4,11 +4,11 @@ public:
         int n1 = tasks.size();
         vector<int> freq(26,0);
         for(char ch:tasks){
-            freq[ch-'A']++;
+            freq[ch - 'A']++;
         }
         int maxFreq = *max_element(freq.begin(),freq.end());
         int cntFreq = 0;
-        for(int f : freq){
+        for(int f:freq){
             if(f == maxFreq){
                 cntFreq++;
             }
