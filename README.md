@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0518-coin-change-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0704-binary-search/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -563,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -635,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
