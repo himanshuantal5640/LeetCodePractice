@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1046-last-stone-weight/) | Easy |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0788-rotated-digits/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1447-simplified-fractions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1447-simplified-fractions/) | Medium |
 | [1622-fancy-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
@@ -559,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1046-last-stone-weight/) | Easy |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -606,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Merge Sort
@@ -632,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -694,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Sweep Line
 | Problem Name | Difficulty |
