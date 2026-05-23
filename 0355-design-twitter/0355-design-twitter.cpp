@@ -1,6 +1,6 @@
 class Twitter {
 public:
-    unordered_map<int,unordered_set<int>> follower;// user --> follower
+    unordered_map<int,unordered_set<int>> follower;
     unordered_map<int,vector<pair<int,int>>> tweet;
     int timer;
     Twitter() {
@@ -13,13 +13,13 @@ public:
     
     vector<int> getNewsFeed(int userId) {
         priority_queue<pair<int,int>> pq;
-        //user post
-        for(auto& p : tweet[userId]){
+        //users tweet
+        for(auto& p:tweet[userId]){
             pq.push(p);
         }
-        //user follower post
-        for(int follow : follower[userId]){
-            for(auto& p1 : tweet[follow]){
+        //user follower tweet
+        for(auto& f:follower[userId]){
+            for(auto& p1: tweet[f]){
                 pq.push(p1);
             }
         }
@@ -29,7 +29,6 @@ public:
             pq.pop();
         }
         return ans;
-
     }
     
     void follow(int followerId, int followeeId) {
@@ -40,7 +39,7 @@ public:
     }
     
     void unfollow(int followerId, int followeeId) {
-        follower[followerId].erase(followeeId);   
+        follower[followerId].erase(followeeId);
     }
 };
 
