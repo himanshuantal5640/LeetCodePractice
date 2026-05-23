@@ -12,9 +12,9 @@ public:
             }
         }
         combine.push_back(arr[idx]);
-        //single select
+        //single
         solve(idx+1,arr,tar-arr[idx],combine,ans);
-        //multiple select
+        //multiple
         solve(idx,arr,tar-arr[idx],combine,ans);
         //exclude
         combine.pop_back();
