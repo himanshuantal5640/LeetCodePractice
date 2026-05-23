@@ -5,10 +5,10 @@ public:
             re.push_back(curr);
             return;
         }
-        //include current
+        //include
         curr.push_back(nums[idx]);
         solve(idx+1,nums,curr,re);
-        //exclude the cuurent
+        //exclude
         curr.pop_back();
         solve(idx+1,nums,curr,re);
     }
