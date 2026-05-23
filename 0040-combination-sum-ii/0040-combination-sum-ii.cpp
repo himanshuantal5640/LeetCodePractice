@@ -1,19 +1,19 @@
 class Solution {
 public:
-    void getAllCombinations(int idx,vector<int> &arr,int tar,vector<int> &combine,vector<vector<int>> &ans){
+    void solve(int idx,vector<int>& arr,int tar,vector<int>& combine,vector<vector<int>>& ans){
         if(tar == 0){
             ans.push_back(combine);
             return;
         }
-        for(int i=idx;i<arr.size();i++){
-            if(i>idx && arr[i] == arr[i-1]){
+        for(int i = idx;i<arr.size();i++){
+            if(i > idx && arr[i] == arr[i-1]){
                 continue;
             }
             if(arr[i] > tar){
                 break;
             }
             combine.push_back(arr[i]);
-            getAllCombinations(i+1,arr,tar-arr[i],combine,ans);
+            solve(i+1,arr,tar-arr[i],combine,ans);
             combine.pop_back();
         }
     }
@@ -21,7 +21,7 @@ public:
         sort(candidates.begin(),candidates.end());
         vector<vector<int>> ans;
         vector<int> combine;
-        getAllCombinations(0,candidates,target,combine,ans);
+        solve(0,candidates,target,combine,ans);
         return ans;
     }
 };
