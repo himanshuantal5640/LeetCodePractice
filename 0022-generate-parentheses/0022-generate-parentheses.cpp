@@ -6,10 +6,10 @@ public:
             return;
         }
         if(open < n){
-            solve(open+1,close,n,curr + "(",ans);
+            solve(open+1,close,n,curr+"(",ans);
         }
-        if(close < open){
-            solve(open,close+1,n,curr+ ")",ans);
+        if(close< open){
+            solve(open,close+1,n,curr+")",ans);
         }
     }
     vector<string> generateParenthesis(int n) {
