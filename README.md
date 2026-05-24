@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0115-distinct-subsequences/) | Hard |
@@ -617,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
