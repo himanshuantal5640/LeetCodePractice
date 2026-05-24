@@ -5,11 +5,11 @@ public:
             ans.push_back(curr);
             return;
         }
-        int digit = digits[idx] - '0';// current digit
+        int digit = digits[idx] - '0';//current digit
         string letter = map[digit];
-        for(char ch: letter){
+        for(char ch:letter){
             curr.push_back(ch);//choose
-            solve(idx+1,digits,curr,map,ans);//explore next
+            solve(idx+1,digits,curr,map,ans);//explore
             curr.pop_back();//backtrack
         }
     }
@@ -30,7 +30,7 @@ public:
             "tuv",//8
             "wxyz"//9
         };
-        solve(0,digits, "",map,ans);
+        solve(0,digits,"",map,ans);
         return ans;
     }
 };
