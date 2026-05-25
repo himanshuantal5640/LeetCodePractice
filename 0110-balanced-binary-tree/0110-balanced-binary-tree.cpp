@@ -12,7 +12,7 @@
 class Solution {
 public:
     int height(TreeNode* root){
-        if(root == NULL){
+        if(root == nullptr){
             return 0;
         }
         int left = height(root->left);
@@ -23,8 +23,7 @@ public:
         if(right == -1){
             return -1;
         }
-        //check balance or nit
-        if(abs(left - right) > 1){
+        if(abs(left-right) > 1){
             return -1;
         }
         return 1 + max(left,right);
