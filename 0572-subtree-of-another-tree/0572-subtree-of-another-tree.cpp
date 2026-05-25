@@ -15,7 +15,7 @@ public:
         if(a == NULL || b == NULL){
             return a == b;
         }
-        return (a->val == b->val) && isSame(a->left,b->left) && (a->right,b->right);
+        return (a->val == b->val) && isSame(a->left,b->left) && isSame(a->right,b->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root == NULL || subRoot == NULL){
