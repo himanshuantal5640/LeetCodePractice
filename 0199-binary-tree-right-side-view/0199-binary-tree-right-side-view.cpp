@@ -20,7 +20,7 @@ public:
         q.push(root);
         while(!q.empty()){
             int n = q.size();
-            for(int i=0;i<n;i++){
+            for(int i = 0;i<n;i++){
                 TreeNode* node = q.front();
                 q.pop();
                 if(i == n-1){
