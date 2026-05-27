@@ -20,8 +20,8 @@ public:
             cnt++;
         }
         maxi = max(maxi,root->val);
-        cnt += DFS(root->left,maxi);//left tree
-        cnt += DFS(root->right,maxi);//right tree
+        cnt += DFS(root->left,maxi);
+        cnt += DFS(root->right,maxi);
         return cnt;
     }
     int goodNodes(TreeNode* root) {
