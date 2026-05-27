@@ -12,17 +12,20 @@
 class Solution {
 public:
     int maxi = INT_MIN;
-    int dfs(TreeNode* root){
+    int DFS(TreeNode* root){
         if(root == NULL){
             return 0;
         }
-        int left = max(0,dfs(root->left));
-        int right = max(0,dfs(root->right));
-        maxi = max(maxi,root->val+left+right);
-        return root->val + max(left,right);
+        //max contibution from left side
+        int left = max(0,DFS(root->left));
+        //max contribution from right side
+        int right = max(0,DFS(root->right));
+        int curPath = left + right + root->val;
+        maxi = max(maxi,curPath);
+        return root->val + max(left,right);//best single path
     }
     int maxPathSum(TreeNode* root) {
-        dfs(root);
+        DFS(root);
         return maxi;
     }
 };
