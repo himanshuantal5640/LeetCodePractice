@@ -1,6 +1,6 @@
 class DetectSquares {
 public:
-    map<pair<int,int>,int> map;
+    map<pair<int,int>,int> mp;
     DetectSquares() {
         
     }
@@ -8,23 +8,23 @@ public:
     void add(vector<int> point) {
         int x = point[0];
         int y = point[1];
-        map[{x,y}]++;
+        mp[{x,y}]++;
     }
     
     int count(vector<int> point) {
         int x1 = point[0];
         int y1 = point[1];
-        //try every point as diagonal
         int ans = 0;
-        for(auto& it : map){
+        //try every point as diagonal
+        for(auto& it: mp){
             int x2 = it.first.first;
             int y2 = it.first.second;
             int freq = it.second;
-            if(abs(x1 - x2) != abs(y1 - y2) || x1 == x2 || y1 == y2){
+            if(abs(x1-x2) != abs(y1-y2) || x1 == x2 || y1 == y2){
                 continue;
             }
-            int cnt1 = map[{x1,y2}];
-            int cnt2 = map[{x2,y1}];
+            int cnt1 = mp[{x1,y2}];
+            int cnt2 = mp[{x2,y1}];
             ans += freq * cnt1 * cnt2;
         }
         return ans;
