@@ -12,7 +12,7 @@
 class Solution {
 public:
     int search(vector<int>& inorder,int left,int right,int val){
-        for(int i = left;i<=right;i++){
+        for(int i = left;i <= right;i++){
             if(inorder[i] == val){
                 return i;
             }
@@ -32,6 +32,6 @@ public:
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int preIdx = 0;
-        return solve(preorder,inorder,preIdx,0,preorder.size() - 1);
+        return solve(preorder,inorder,preIdx,0,preorder.size()-1);
     }
 };
