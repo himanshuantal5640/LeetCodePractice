@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -685,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [1306-jump-game-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2596-check-knight-tour-configuration/) | Medium |
