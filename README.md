@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -551,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -576,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1861-rotating-the-box/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
