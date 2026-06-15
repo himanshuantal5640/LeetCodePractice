@@ -606,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1861-rotating-the-box/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
@@ -882,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0355-design-twitter/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
