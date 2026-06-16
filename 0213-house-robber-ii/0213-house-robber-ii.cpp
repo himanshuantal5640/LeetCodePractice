@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int solve(vector<int> &nums,int s,int e){
+    int solve(vector<int>&nums,int start,int end){
         int p2 = 0;
         int p1 = 0;
-        for(int i = s;i<=e;i++){
-            int t = nums[i] + p2;
-            int s = p1;
-            int c = max(t,s);
+        for(int i = start;i<=end;i++){
+            int take = nums[i] + p2;
+            int skip = p1;
+            int curr = max(take,skip);
             p2 = p1;
-            p1 = c;
+            p1 = curr;
         }
         return p1;
     }
@@ -17,8 +17,8 @@ public:
         if(n == 1){
             return nums[0];
         }
-        int c1 = solve(nums,0,n-2);
-        int c2 = solve(nums,1,n-1);
-        return max(c1,c2);
+        int include = solve(nums,0,n-2);
+        int exclude = solve(nums,1,n-1);
+        return max(include,exclude);
     }
 };
