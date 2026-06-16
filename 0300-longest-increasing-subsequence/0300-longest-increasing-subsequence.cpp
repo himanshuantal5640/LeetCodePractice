@@ -7,7 +7,7 @@ public:
         if(dp[i][prev+1] != -1){
             return dp[i][prev+1];
         }
-        int len = solve(i+1,prev,nums,dp);///not take
+        int len = solve(i+1,prev,nums,dp);//not take
         if(prev == -1 || nums[i] > nums[prev]){
             len = max(len,1+solve(i+1,i,nums,dp));//take
         }
@@ -15,7 +15,7 @@ public:
     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n,vector<int>(n+1,-1));
+        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
         return solve(0,-1,nums,dp);
     }
 };
