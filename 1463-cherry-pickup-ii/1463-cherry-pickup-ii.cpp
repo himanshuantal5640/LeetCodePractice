@@ -1,7 +1,7 @@
 class Solution {
 public:
     int solve(int i,int j1,int j2,int n,int m,vector<vector<int>>& grid,vector<vector<vector<int>>>& dp){
-        //out of bound base case
+        //out of bound basecase
         if(j1 < 0 || j1 >= m || j2 < 0 || j2 >= m){
             return -1e8;
         }
@@ -17,10 +17,10 @@ public:
         if(dp[i][j1][j2] != -1){
             return dp[i][j1][j2];
         }
-        //explore all path 
-        int maxi = -1e8;
-        for(int dj1 = -1;dj1<=1;dj1++){
-            for(int dj2 = -1;dj2<=1;dj2++){
+        //explore all 9 path
+        int maxi = 0;
+        for(int dj1 = -1;dj1 <= 1;dj1++){
+            for(int dj2 = -1;dj2 <= 1;dj2++){
                 int val = 0;
                 if(j1 == j2){
                     val = grid[i][j1];
@@ -33,6 +33,7 @@ public:
             }
         }
         return dp[i][j1][j2] = maxi;
+
     }
     int cherryPickup(vector<vector<int>>& grid) {
         int n = grid.size();
