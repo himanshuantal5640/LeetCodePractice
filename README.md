@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0120-triangle](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0115-distinct-subsequences/) | Hard |
+| [0120-triangle](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
