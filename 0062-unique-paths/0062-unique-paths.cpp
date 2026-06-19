@@ -10,9 +10,10 @@ public:
         if(dp[i][j] != -1){
             return dp[i][j];
         }
-        int top = solve(i+1,j,m,n,dp);
-        int down = solve(i,j+1,m,n,dp);
-        return dp[i][j] = top + down;
+        int down = solve(i+1,j,m,n,dp);
+        int right = solve(i,j+1,m,n,dp);
+        dp[i][j] = down+right;
+        return dp[i][j];
     }
     int uniquePaths(int m, int n) {
         vector<vector<int>> dp(m,vector<int>(n,-1));
