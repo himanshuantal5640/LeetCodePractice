@@ -13,9 +13,9 @@ public:
         if(dp[i][j] != -1){
             return dp[i][j];
         }
-        int up = solve(i+1,j,n,m,mat,dp);
-        int down = solve(i,j+1,n,m,mat,dp);
-        return dp[i][j] = up + down;
+        int down = solve(i+1,j,n,m,mat,dp);
+        int right = solve(i,j+1,n,m,mat,dp);
+        return dp[i][j] = down+right;
     }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int n = obstacleGrid.size();
