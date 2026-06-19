@@ -8,8 +8,9 @@ public:
             return dp[i][j];
         }
         int down = mat[i][j] + solve(i+1,j,n,mat,dp);
-        int dia = mat[i][j] + solve(i+1,j+1,n,mat,dp);
-        return dp[i][j] = min(down,dia);
+        int diagonally = mat[i][j] + solve(i+1,j+1,n,mat,dp);
+        dp[i][j] = min(down,diagonally);
+        return dp[i][j];
     }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
