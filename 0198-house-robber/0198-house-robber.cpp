@@ -9,10 +9,9 @@ public:
         }
         int rob = nums[i] + solve(i+2,nums,dp);
         int skip = solve(i+1,nums,dp);
-        dp[i] = max(rob,skip);
-        return dp[i];
+        return dp[i] = max(rob,skip);
     }
-    int rob(vector<int>& nums){
+    int rob(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n,-1);
         return solve(0,nums,dp);
