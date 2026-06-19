@@ -3,7 +3,7 @@ public:
     int solve(int start,int end,vector<int>& nums){
         int p2 = 0;
         int p1 = 0;
-        for(int i = start;i<=end;i++){
+        for(int i=start;i<=end;i++){
             int take = nums[i] + p2;
             int skip = p1;
             int curr = max(take,skip);
