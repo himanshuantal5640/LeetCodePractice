@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1447-simplified-fractions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1447-simplified-fractions/) | Medium |
 | [1622-fancy-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1622-fancy-sequence/) | Hard |
+| [1840-maximum-building-height](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -587,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
