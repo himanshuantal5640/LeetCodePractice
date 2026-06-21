@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2126-destroying-asteroids/) | Medium |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -830,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2013-detect-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2013-detect-squares/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
