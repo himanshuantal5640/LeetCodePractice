@@ -7,7 +7,7 @@ public:
         int r = 0;
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
-        while(l<m && r<n){
+        while(l < m && r < n){
             if(g[r] <= s[l]){
                 r++;
             }
