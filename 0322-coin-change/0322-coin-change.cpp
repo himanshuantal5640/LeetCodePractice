@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int solve(int i,int tar,vector<int>& coins,vector<vector<int>>& dp){
-        if(i >= coins.size()){
+    int solve(int i,int tar,vector<int>& arr,vector<vector<int>>& dp){
+        if(i >= arr.size()){
             return 1e9;
         }
         if(tar == 0){
@@ -10,12 +10,12 @@ public:
         if(dp[i][tar] != -1){
             return dp[i][tar];
         }
-        int notTake = solve(i+1,tar,coins,dp);
-        int take = 1e9;
-        if(tar >= coins[i]){
-            take = 1 + solve(i,tar-coins[i],coins,dp);
+        int notPick = solve(i+1,tar,arr,dp);
+        int pick = 1e9;
+        if(tar >= arr[i]){
+            pick = 1 + solve(i,tar - arr[i],arr,dp);
         }
-        return dp[i][tar] = min(take,notTake);
+        return dp[i][tar] = min(notPick,pick);
     }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
