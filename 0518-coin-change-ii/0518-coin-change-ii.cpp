@@ -12,7 +12,7 @@ public:
         if(tar >= arr[i]){
             pick = solve(i,tar-arr[i],arr,dp);
         }
-        return dp[i][tar] = notPick+pick;
+        return dp[i][tar] = notPick + pick;
     }
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
