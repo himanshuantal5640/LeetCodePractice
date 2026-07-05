@@ -13,13 +13,14 @@ public:
         int notPick = solve(i+1,tar,arr,dp);
         int pick = 1e9;
         if(tar >= arr[i]){
-            pick = 1 + solve(i,tar - arr[i],arr,dp);
+            pick = 1 + solve(i,tar-arr[i],arr,dp);
         }
         return dp[i][tar] = min(notPick,pick);
+
     }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>> dp(n,vector<int>(amount+1,-1));
+        vector<vector<int>> dp(n+1,vector<int>(amount+1,-1));
         int ans = solve(0,amount,coins,dp);
         return ans >= 1e9 ? -1:ans;
     }
