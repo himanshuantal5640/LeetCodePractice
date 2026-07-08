@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0788-rotated-digits/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0796-rotate-string/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
