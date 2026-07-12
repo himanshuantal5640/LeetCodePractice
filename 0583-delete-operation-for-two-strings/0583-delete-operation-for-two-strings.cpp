@@ -15,9 +15,9 @@ public:
     int minDistance(string word1, string word2) {
         int n = word1.size();
         int m = word2.size();
-        int total = n + m;
-        vector<vector<int>> dp(n,vector<int>(m,-1));
+        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
         int lcs = solve(0,0,word1,word2,dp);
-        return total - 2*lcs;
+        return n+m - 2*lcs;
+        
     }
 };
