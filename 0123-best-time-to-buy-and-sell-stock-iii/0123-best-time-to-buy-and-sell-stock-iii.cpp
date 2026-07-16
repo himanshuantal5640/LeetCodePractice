@@ -12,7 +12,6 @@ public:
             profit = max(-arr[idx] + solve(idx+1,0,cap,arr,dp),solve(idx+1,1,cap,arr,dp));
         }
         else{
-            //sell ==> only when capaciyt decreases
             profit = max(arr[idx] + solve(idx+1,1,cap-1,arr,dp),solve(idx+1,0,cap,arr,dp));
         }
         return dp[idx][buy][cap] = profit;
