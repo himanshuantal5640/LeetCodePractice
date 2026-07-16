@@ -9,10 +9,10 @@ public:
         }
         int profit = 0;
         if(buy){
-            profit = max(-arr[idx] + solve(idx+1,0,arr,dp),0+solve(idx+1,1,arr,dp));
+            profit = max(-arr[idx] + solve(idx+1,0,arr,dp),solve(idx+1,1,arr,dp));
         }
         else{
-            profit = max(arr[idx] + solve(idx+1,1,arr,dp),0 + solve(idx+1,0,arr,dp));
+            profit = max(arr[idx] + solve(idx+1,1,arr,dp),solve(idx+1,0,arr,dp));
         }
         return dp[idx][buy] = profit;
     }
