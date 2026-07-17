@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0518-coin-change-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0647-palindromic-substrings/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -835,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1622-fancy-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1067,5 +1070,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
