@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -760,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -781,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -827,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1447-simplified-fractions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1447-simplified-fractions/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -904,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2013-detect-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2013-detect-squares/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1002,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0062-unique-paths/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
