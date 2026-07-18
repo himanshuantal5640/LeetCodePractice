@@ -22,7 +22,7 @@ public:
         vector<int> ans;
         int i = 0;
         int prev = -1;
-        while(i<n){
+        while(i < n){
             int notTake = solve(i+1,prev,nums,dp);
             int take = 0;
             if(prev == -1 || nums[i]%nums[prev] == 0){
