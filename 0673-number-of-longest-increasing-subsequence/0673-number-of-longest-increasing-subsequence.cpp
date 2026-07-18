@@ -12,7 +12,7 @@ public:
                         dp[i] = dp[p] + 1;
                         cnt[i] = cnt[p];
                     }
-                    else if(dp[p] + 1 == dp[i]){
+                    else if(dp[p]+1 == dp[i]){
                         cnt[i] += cnt[p];
                     }
                 }
