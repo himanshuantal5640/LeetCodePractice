@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
