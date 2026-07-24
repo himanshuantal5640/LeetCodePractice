@@ -11,16 +11,16 @@ public:
                 i++;
                 continue;
             }
-            //increasing slope
+            //increaing slope
             int peak = 1;
             while(i < n && ratings[i] > ratings[i-1]){
                 peak++;
                 sum += peak;
                 i++;
             }
-            //decreaing slope
+            //decreasing slope
             int down = 1;
-            while(i < n && ratings[i] < ratings[i-1]){
+            while(i<n && ratings[i] < ratings[i-1]){
                 sum += down;
                 down++;
                 i++;
