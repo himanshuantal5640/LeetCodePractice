@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0518-coin-change-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -665,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
