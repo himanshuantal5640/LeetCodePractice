@@ -17,9 +17,9 @@ public:
                 }
             }
             else{
-                if(ten && five){
-                    ten--;
+                if(five && ten){
                     five--;
+                    ten--;
                 }
                 else if(five >= 3){
                     five = five - 3;
