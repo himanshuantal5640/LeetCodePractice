@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0036-valid-sudoku/) | Medium |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0010-regular-expression-matching/) | Hard |
+| [0014-longest-common-prefix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0022-generate-parentheses/) | Medium |
@@ -1034,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0139-word-break/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
