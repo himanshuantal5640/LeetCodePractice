@@ -5,10 +5,7 @@ public:
             return false;
         }
 
-        //double ths string s
-        string doubled = s + s;
-
-        //find doubled sustring in goal 
-        return doubled.find(goal) != string::npos;//npos means no string
+        string d = s+s;
+        return d.find(goal) != string::npos;
     }
 };
