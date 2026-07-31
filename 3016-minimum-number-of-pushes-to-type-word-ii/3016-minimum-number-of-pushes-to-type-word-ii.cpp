@@ -1,24 +1,20 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        vector<int> freq(26, 0);
+        vector<int> charCount(26, 0);
 
-        for(char ch : word)
-            freq[ch - 'a']++;
-
-        sort(freq.begin(), freq.end());
-
-        int minPushing = 0;
-
-        for(int i = 25, pushCnt = 0; i >= 0; i--) {
-            int currEleIdx = 25 - i;
-
-            if(currEleIdx % 8 == 0)
-                pushCnt++;
-
-            minPushing += freq[i] * pushCnt;
+        for(char ch : word) {
+            charCount[ch - 'a']++;
         }
 
-        return minPushing;
+        sort(charCount.begin(), charCount.end(), greater<int>());
+
+        int minPushCount = 0;
+
+        for(int i = 0; i < 26; i++) {
+            minPushCount += charCount[i] * (i / 8 + 1);
+        }
+
+        return minPushCount;
     }
 };
