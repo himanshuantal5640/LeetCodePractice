@@ -1154,4 +1154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0877-stone-game/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
