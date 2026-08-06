@@ -17,7 +17,6 @@ public:
                 st.push_back(w);
             }
         }
-
         string ans = "";
         for(int j = st.size()-1;j>=0;j--){
             ans += st[j];
