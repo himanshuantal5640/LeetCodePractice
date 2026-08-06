@@ -8,7 +8,7 @@ public:
         int ans = 0;
         for(int i=0;i<n;i++){
             int m = mpp[s[i]];
-            if(i+1 < n && m < mpp[s[i+1]]){
+            if(i+1<n && m < mpp[s[i+1]]){
                 ans -= m;
             }
             else{
