@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
