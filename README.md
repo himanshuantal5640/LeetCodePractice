@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0242-valid-anagram/) | Easy |
@@ -764,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0143-reorder-list/) | Medium |
@@ -1214,4 +1217,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
