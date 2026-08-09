@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0198-house-robber/) | Medium |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0242-valid-anagram/) | Easy |
@@ -839,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
@@ -998,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -1024,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0621-task-scheduler/) | Medium |
@@ -1225,4 +1230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0075-sort-colors/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
