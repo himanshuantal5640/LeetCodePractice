@@ -4,7 +4,7 @@ public:
         unordered_set<int> st(nums.begin(),nums.end());
         int maxi = 0;
         for(int s:st){
-            if(st.find(s - 1) == st.end()){
+            if(st.find(s-1) == st.end()){
                 int curr = s;
                 int cnt = 1;
                 while(st.find(curr+1) != st.end()){
@@ -13,7 +13,7 @@ public:
                 }
                 maxi = max(maxi,cnt);
             }
-        }  
+        }
         return maxi;
     }
 };
