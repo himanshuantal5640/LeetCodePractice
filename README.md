@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1871-jump-game-vii/) | Medium |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1447-simplified-fractions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1447-simplified-fractions/) | Medium |
+| [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
 | [1622-fancy-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -1208,6 +1210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1221,10 +1224,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1237,4 +1242,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
