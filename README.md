@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0486-predict-the-winner/) | Medium |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0518-coin-change-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0525-contiguous-array/) | Medium |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -850,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Bitmask
@@ -982,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1622-fancy-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -1047,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -1055,6 +1060,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -1239,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
 ## Game Theory
@@ -1289,4 +1296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
