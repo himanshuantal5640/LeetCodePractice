@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0724-find-pivot-index](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
@@ -938,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1732-find-the-highest-altitude/) | Easy |
