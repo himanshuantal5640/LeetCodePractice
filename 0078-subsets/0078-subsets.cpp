@@ -1,21 +1,19 @@
 class Solution {
 public:
-    void solve(int idx,vector<int>& nums,vector<int>& curr,vector<vector<int>>& re){
-        if(idx == nums.size()){
-            re.push_back(curr);
+    void solve(int i,vector<int>& nums,vector<int>& path,vector<vector<int>>& ans){
+        if(i == nums.size()){
+            ans.push_back(path);
             return;
         }
-        //include
-        curr.push_back(nums[idx]);
-        solve(idx+1,nums,curr,re);
-        //exclude
-        curr.pop_back();
-        solve(idx+1,nums,curr,re);
+        path.push_back(nums[i]);
+        solve(i+1,nums,path,ans);
+        path.pop_back();
+        solve(i+1,nums,path,ans);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> re;
-        vector<int> curr;
-        solve(0,nums,curr,re);
-        return re;
+        vector<vector<int>> ans;
+        vector<int> path;
+        solve(0,nums,path,ans);
+        return ans;
     }
 };
