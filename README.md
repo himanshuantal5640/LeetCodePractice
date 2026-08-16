@@ -1326,4 +1326,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
