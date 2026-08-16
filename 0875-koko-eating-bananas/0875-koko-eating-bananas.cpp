@@ -1,9 +1,9 @@
 class Solution {
 public:
-    bool canEat(vector<int> &piles,int h,int k){
+    bool canEat(vector<int>& piles,int h,int k){
         long long hrs = 0;
         for(int p:piles){
-            hrs += (p + k -1)/k;
+            hrs += (p + k - 1)/k;
         }
         return hrs <= h;
     }
