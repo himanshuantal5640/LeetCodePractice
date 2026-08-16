@@ -1,22 +1,21 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
+        unordered_map<char,int> mpp;
         int n = s.size();
-        int l = 0;
-        int r = 0;
-        int freq = 0;
-        int len = 0;
-        vector<int> cnt(26,0);
-        while(r < n){
-            cnt[s[r] - 'A']++;
-            freq = max(freq,cnt[s[r] - 'A']);
-            if(r-l+1 - freq > k){
-                cnt[s[l]-'A']--;
-                l++;
+        int left = 0;
+        int maxi = 0;
+        int ans = 0;
+        for(int right = 0;right < n ;right++){
+            mpp[s[right]]++;
+            maxi = max(maxi,mpp[s[right]]);
+            int windowSize = right - left + 1;
+            if(windowSize - maxi > k){
+                mpp[s[left]]--;
+                left++;
             }
-            len = max(len,r-l+1);
-            r++;
+            ans = max(ans,right - left + 1);
         }
-        return len;
+        return ans;
     }
 };
