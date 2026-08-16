@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -775,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -829,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0763-partition-labels](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0763-partition-labels/) | Medium |
 | [1048-longest-string-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1048-longest-string-chain/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1861-rotating-the-box/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
