@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0216-combination-sum-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
