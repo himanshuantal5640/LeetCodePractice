@@ -5,7 +5,7 @@ public:
             ans.push_back(combine);
             return;
         }
-        for(int i = idx;i<arr.size();i++){
+        for(int i = idx;i < arr.size();i++){
             if(i > idx && arr[i] == arr[i-1]){
                 continue;
             }
