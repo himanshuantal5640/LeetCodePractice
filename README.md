@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -865,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -923,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
