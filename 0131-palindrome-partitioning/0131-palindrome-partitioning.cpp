@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isPalindromic(string s1){
+    bool isPalindrome(string& s1){
         int l = 0;
         int r = s1.size() - 1;
         while(l <= r){
@@ -12,26 +12,25 @@ public:
         }
         return true;
     }
-    void solve(int idx,string s,int n,vector<string>& curr,vector<vector<string>>& ans){
-        if(idx == n){
-            ans.push_back(curr);
+    void solve(int idx,string& s,vector<string>& re,vector<vector<string>>& ans){
+        if(idx == s.size()){
+            ans.push_back(re);
             return;
         }
         string temp = "";
-        for(int j=idx;j<n;j++){
-            temp += s[j];
-            if(isPalindromic(temp)){
-                curr.push_back(temp);
-                solve(j+1,s,n,curr,ans);
-                curr.pop_back();
+        for(int i = idx;i < s.size();i++){
+            temp += s[i];
+            if(isPalindrome(temp)){
+                re.push_back(temp);
+                solve(i+1,s,re,ans);
+                re.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
-        vector<string> curr;
-        int n = s.size();
-        solve(0,s,n,curr,ans);
+        vector<string> re;
+        solve(0,s,re,ans);
         return ans;
     }
 };
