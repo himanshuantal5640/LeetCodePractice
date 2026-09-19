@@ -669,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1447-simplified-fractions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1447-simplified-fractions/) | Medium |
 | [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1563-stone-game-v/) | Hard |
@@ -1215,6 +1216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Sweep Line
 | Problem Name | Difficulty |
