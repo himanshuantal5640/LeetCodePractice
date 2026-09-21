@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2126-destroying-asteroids](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -1189,6 +1190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
@@ -1202,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0853-car-fleet/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
