@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0494-target-sum/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -648,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -809,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
@@ -953,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1205,6 +1210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
