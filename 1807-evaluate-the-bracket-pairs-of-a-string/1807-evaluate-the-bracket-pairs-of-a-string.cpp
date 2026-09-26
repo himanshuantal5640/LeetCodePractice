@@ -2,32 +2,30 @@ class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         unordered_map<string, string> mp;
-        // Store key-value pairs
         for(auto &p : knowledge) {
             mp[p[0]] = p[1];
         }
-        string ans;
+        string a;
         for(int i = 0; i < s.size(); i++) {
             if(s[i] != '(') {
-                ans += s[i];
+                a += s[i];
             }
             else {
                 i++;
                 string key;
-                // Extract key
                 while(s[i] != ')') {
                     key += s[i];
                     i++;
                 }
                 // Replace key
                 if(mp.count(key)) {
-                    ans += mp[key];
+                    a += mp[key];
                 }
                 else {
-                    ans += "?";
+                    a += "?";
                 }
             }
         }
-        return ans;
+        return a;
     }
 };
