@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -905,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -951,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0355-design-twitter/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -1247,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0139-word-break/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3093-longest-common-suffix-queries/) | Hard |
