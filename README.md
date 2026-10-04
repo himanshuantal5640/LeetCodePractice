@@ -1367,6 +1367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
