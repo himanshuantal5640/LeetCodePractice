@@ -1,39 +1,39 @@
 class Solution {
 public:
-    int area(vector<int>& heights) {
-        int n = heights.size();
+    int largestRectangleArea(vector<int>& heights) {
         stack<int> st;
-        int maxArea = 0;
-
-        for (int i = 0; i <= n; i++) {
-            int h = (i == n) ? 0 : heights[i];
-            while (!st.empty() && h < heights[st.top()]) {
-                int height = heights[st.top()];
+        int ans = 0;
+        int n = heights.size();
+        for(int i=0;i<=n;i++){
+            int curr = (i == n) ? 0 : heights[i];
+            while(!st.empty() && heights[st.top()] >= curr){
+                int h = heights[st.top()];
                 st.pop();
-                int width = st.empty() ? i : i - st.top() - 1;
-                maxArea = max(maxArea, height * width);
+                int w = st.empty() ? i : i - st.top() - 1;
+                ans = max(ans,h*w);
             }
             st.push(i);
         }
-        return maxArea;
+        return ans;
     }
-
     int maximalRectangle(vector<vector<char>>& matrix) {
-        int m = matrix.size();
-        if (m == 0) return 0;
-        int n = matrix[0].size();
-
-        vector<int> hist(n, 0);
+        if(matrix.empty()){
+            return 0;
+        }
+        int n = matrix.size();
+        int m = matrix[0].size();
+        vector<int> h(m,0);
         int ans = 0;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == '1')
-                    hist[j]++;
-                else
-                    hist[j] = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(matrix[i][j] == '1'){
+                    h[j]++;
+                }
+                else{
+                    h[j] = 0;
+                }
             }
-            ans = max(ans, area(hist));
+            ans = max(ans,largestRectangleArea(h));
         }
         return ans;
     }
