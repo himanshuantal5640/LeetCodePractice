@@ -1437,5 +1437,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
