@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3731-find-missing-elements/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -869,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
