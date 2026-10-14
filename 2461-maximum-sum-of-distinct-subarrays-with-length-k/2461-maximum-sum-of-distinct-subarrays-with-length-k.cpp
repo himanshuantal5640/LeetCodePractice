@@ -8,10 +8,10 @@ public:
             sum += nums[i];
             mpp[nums[i]]++;
             if(i >= k){
-                sum -=nums[i - k];
-                mpp[nums[i - k]]--;
-                if(mpp[nums[i - k]] == 0){
-                    mpp.erase(nums[i - k]);
+                sum -= nums[i-k];
+                mpp[nums[i-k]]--;
+                if(mpp[nums[i-k]] == 0){
+                    mpp.erase(nums[i-k]);
                 }
             }
             if(i >= k-1 && mpp.size() == k){
