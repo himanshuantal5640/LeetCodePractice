@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2304-minimum-path-cost-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Rolling Hash
@@ -1004,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2013-detect-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2013-detect-squares/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
