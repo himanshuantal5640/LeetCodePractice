@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1048-longest-string-chain/) | Medium |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0567-permutation-in-string/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -1037,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
