@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -1027,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1116,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1622-fancy-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -1401,6 +1404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
