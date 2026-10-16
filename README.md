@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1306-jump-game-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1314-matrix-block-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1345-jump-game-iv/) | Hard |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1314-matrix-block-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1314-matrix-block-sum/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -1060,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1314-matrix-block-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1732-find-the-highest-altitude/) | Easy |
