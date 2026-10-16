@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0877-stone-game/) | Medium |
@@ -1003,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0567-permutation-in-string/) | Medium |
@@ -1056,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -1497,4 +1501,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
