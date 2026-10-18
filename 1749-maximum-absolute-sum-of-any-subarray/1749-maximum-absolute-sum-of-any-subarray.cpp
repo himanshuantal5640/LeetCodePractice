@@ -6,9 +6,9 @@ public:
         int curMin = 0;
         int minSum = 0;
         for(int x: nums){
-            curMax = max(0,curMax+x);
+            curMax = max(x,curMax+x);
             maxSum = max(maxSum,curMax);
-            curMin = min(0,curMin+x);
+            curMin = min(x,curMin+x);
             minSum = min(minSum,curMin);
         }
         return max(maxSum,-minSum);
