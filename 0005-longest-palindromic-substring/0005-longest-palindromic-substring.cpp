@@ -17,7 +17,7 @@ public:
             int len = max(l1,l2);
             if(len > maxi){
                 maxi = len;
-                st = i - (len - 1)/2;
+                st = i - (len-1)/2;
             }
         }
         return s.substr(st,maxi);
