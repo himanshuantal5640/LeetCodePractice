@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i] != 0){
                 cnt++;
-                maxi = max(cnt,maxi);
+                maxi = max(maxi,cnt);
             }
             else if(nums[i] == 0){
                 cnt = 0;
