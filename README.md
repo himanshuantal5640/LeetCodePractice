@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -916,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1275,6 +1278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
