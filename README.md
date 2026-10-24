@@ -559,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2409-count-days-spent-together](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
