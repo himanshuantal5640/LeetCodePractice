@@ -1,27 +1,18 @@
 class Solution {
-private:
-    int n, m;
-    vector<vector<vector<int>>> dp;
-    int dfs(int i, int j, int temp, vector<vector<int>>& nums){
-        if(i >= n || j >= m){
-            return INT_MAX;
-        }
-        temp ^= nums[i][j];
-        if(i == n-1 && j == m-1){
-            return temp;
-        }
-        if(dp[i][j][temp] != -1){
-            return dp[i][j][temp];
-        }
-        int right = dfs(i+1, j, temp, nums);
-        int down = dfs(i, j+1, temp, nums);
-        return dp[i][j][temp] = min(right, down);
-    }
 public:
-    int minCost(vector<vector<int>>& nums) {
-        n = nums.size();
-        m = nums[0].size();
-        dp = vector<vector<vector<int>>>(n, vector<vector<int>>(m, vector<int>(1024, -1)));
-        return dfs(0, 0, 0, nums);
+    int minCost(vector<vector<int>>& grid) {
+        int n = grid[0].size();
+        vector<bitset<1024>> dp(n);  // dp[j][x]: XOR x can reach column j of the row above
+        dp[0][0] = 1;
+        for (auto& row : grid)
+            for (int j = 0; j < n; j++) {
+                auto reach = j ? dp[j] | dp[j - 1] : dp[j];  // come from above or from the left
+                dp[j].reset();
+                for (int x = 0; x < 1024; x++)
+                    if (reach[x]) dp[j][x ^ row[j]] = 1;
+            }
+        int x = 0;
+        while (!dp[n - 1][x]) x++;
+        return x;
     }
 };
