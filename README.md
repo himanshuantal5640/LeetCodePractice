@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3742-maximum-path-score-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3614-process-string-with-special-operations-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1002,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -1176,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1224,6 +1229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1243,6 +1249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1468,6 +1475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
