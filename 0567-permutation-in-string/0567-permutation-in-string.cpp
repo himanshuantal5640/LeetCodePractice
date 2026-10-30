@@ -20,10 +20,10 @@ public:
             return true;
         }
 
-        for(int right = n;right < m;right++){
-            freq2[s2[right - n] - 'a']--;
+        for(int r = n;r < m;r++){
+            freq2[s2[r-n] - 'a']--;
 
-            freq2[s2[right] - 'a']++;
+            freq2[s2[r] - 'a']++;
 
             if(freq1 == freq2){
                 return true;
@@ -31,4 +31,5 @@ public:
         }
         return false;
     }
+
 };
