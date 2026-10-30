@@ -1,31 +1,31 @@
-// first store the frequency of character in s1
-// search s1 permutation in s2 use window based searching similar to sliding window
 class Solution {
 public:
-    bool isSame(int a[],int b[]){
-        for(int i=0;i<26;i++){
-            if(a[i] != b[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     bool checkInclusion(string s1, string s2) {
-        int f[26] = {0};
-        for(int i=0;i<s1.size();i++){
-            f[s1[i] - 'a']++;
+        int n = s1.size();
+        int m = s2.size();
+        if(n > m){
+            return false;
         }
-        int windSize = s1.size();
-        for(int i=0;i<s2.size();i++){
-            int windIdx = 0;
-            int idx = i;
-            int wf[26] = {0};
-            while(windIdx < windSize && idx < s2.size()){
-                wf[s2[idx] - 'a']++;
-                idx++;
-                windIdx++;
-            }
-            if(isSame(f,wf)){
+        vector<int> freq1(26,0);
+        vector<int> freq2(26,0);
+        for(int i=0;i<n;i++){
+            freq1[s1[i] - 'a']++;
+        }
+
+        for(int i=0;i<n;i++){
+            freq2[s2[i] - 'a']++;
+        }
+
+        if(freq1 == freq2){
+            return true;
+        }
+
+        for(int right = n;right < m;right++){
+            freq2[s2[right - n] - 'a']--;
+
+            freq2[s2[right] - 'a']++;
+
+            if(freq1 == freq2){
                 return true;
             }
         }
