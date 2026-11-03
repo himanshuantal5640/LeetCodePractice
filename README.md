@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0268-missing-number/) | Easy |
