@@ -646,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -1587,4 +1589,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
