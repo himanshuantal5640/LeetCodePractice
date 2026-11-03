@@ -10,10 +10,10 @@ public:
         for(char ch:t){
             freq[ch]++;
         }
-        int left = 0;
-        int cnt = m;
-        int mini = INT_MAX;
         int start = 0;
+        int cnt = m;
+        int left = 0;
+        int mini = INT_MAX;
         for(int right = 0;right < n;right++){
             char ch = s[right];
             if(freq[ch] > 0){
