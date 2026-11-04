@@ -1,54 +1,63 @@
-class Window {
-    multiset<int> s;
-    multiset<int>::iterator mid;  // the (h+1)-th smallest: everything before it is the low half
-    long long low, total;
-    int odd;
-
-public:
-    Window(vector<int>::const_iterator first, vector<int>::const_iterator last)
-        : s(first, last), odd(s.size() & 1) {
-        mid = next(s.begin(), s.size() / 2);
-        low = accumulate(s.begin(), mid, 0LL);
-        total = accumulate(s.begin(), s.end(), 0LL);
-    }
-
-    long long cost() const {  // larger half minus smaller half
-        return total - 2 * low - odd * *mid;
-    }
-
-    long long slide(int out, int in) {
-        s.insert(in);
-        if (in < *mid)  // in joins the low half and pushes its largest up
-            low += in - *--mid;
-        if (out < *mid) {  // out leaves the low half: mid moves down into it
-            low += *mid++ - out;
-            s.erase(s.find(out));
-        } else if (out == *mid) {
-            mid = s.erase(mid);
-        } else {
-            s.erase(s.find(out));
-        }
-        total += in - out;
-        return cost();
-    }
-};
-
 class Solution {
 public:
     long long minOperations(vector<int>& nums, int x, int k) {
         int n = nums.size();
-        Window win(nums.begin(), nums.begin() + x);
-        vector<long long> cost{win.cost()};
-        for (int i = x; i < n; ++i)
-            cost.push_back(win.slide(nums[i - x], nums[i]));
+        vector<int> vals(nums);
+        sort(vals.begin(), vals.end());
+        vals.erase(unique(vals.begin(), vals.end()), vals.end());
+        int m = vals.size();
 
-        vector<long long> best(n + 1);  // best[i]: min ops for the windows placed so far inside nums[0..i)
-        for (int j = 0; j < k; ++j) {
-            vector<long long> layer(n + 1, LLONG_MAX / 2);
-            for (int i = x; i <= n; ++i)
-                layer[i] = min(layer[i - 1], best[i - x] + cost[i - x]);
-            best = move(layer);
+        vector<int> rk(n);
+        for (int i = 0; i < n; i++)
+            rk[i] = lower_bound(vals.begin(), vals.end(), nums[i]) - vals.begin() + 1;
+
+        vector<long long> bc(m + 1, 0), bs(m + 1, 0);
+        vector<int> cntAt(m + 1, 0);
+        auto upd = [&](int i, int c, long long v) {
+            for (; i <= m; i += i & -i) { bc[i] += c; bs[i] += v; }
+        };
+        int LOG = 0;
+        while ((1 << (LOG + 1)) <= m) LOG++;
+        int need = (x + 1) / 2;
+        long long tot = 0;
+
+        for (int i = 0; i < x; i++) {
+            upd(rk[i], 1, nums[i]); cntAt[rk[i]]++; tot += nums[i];
         }
-        return best[n];
+
+        vector<long long> cost(n - x + 1);
+        for (int s = 0; s + x <= n; s++) {
+            int pos = 0, kk = need;
+            long long accC = 0, accS = 0;
+            for (int b = LOG; b >= 0; b--) {
+                int np = pos + (1 << b);
+                if (np <= m && bc[np] < kk) {
+                    pos = np; kk -= bc[np]; accC += bc[np]; accS += bs[np];
+                }
+            }
+            int p = pos + 1;
+            long long med = vals[p - 1];
+            long long cntLE = accC + cntAt[p];
+            long long sumLE = accS + cntAt[p] * med;
+            cost[s] = med * cntLE - sumLE + (tot - sumLE) - med * (x - cntLE);
+
+            upd(rk[s], -1, -nums[s]); cntAt[rk[s]]--; tot -= nums[s];
+            if (s + x < n) {
+                upd(rk[s + x], 1, nums[s + x]); cntAt[rk[s + x]]++; tot += nums[s + x];
+            }
+        }
+
+        const long long INF = LLONG_MAX / 4;
+        vector<long long> prev(n + 1, 0), cur(n + 1);
+        for (int j = 1; j <= k; j++) {
+            fill(cur.begin(), cur.end(), INF);
+            for (int i = x; i <= n; i++) {
+                long long best = cur[i - 1];
+                if (prev[i - x] < INF) best = min(best, prev[i - x] + cost[i - x]);
+                cur[i] = best;
+            }
+            swap(prev, cur);
+        }
+        return prev[n];
     }
 };
