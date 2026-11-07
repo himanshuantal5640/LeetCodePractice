@@ -1,30 +1,36 @@
 class Solution {
-    struct Server {
-        long long at;  // the second it frees up; 0 while free, so free servers sort by weight, then index
-        int weight, index;
-        auto operator<=>(const Server&) const = default;
-    };
-    using MinHeap = priority_queue<Server, vector<Server>, greater<>>;
-
 public:
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
-        vector<Server> all;
-        for (int i = 0; i < ssize(servers); ++i) all.push_back({0, servers[i], i});
-        MinHeap free(greater<>{}, std::move(all));
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> busy;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> idle;
 
-        MinHeap busy;
-        vector<int> ans;
-        for (int s = 0; s < ssize(tasks); ++s) {
-            while (!busy.empty() && busy.top().at <= s) {  // done by second s
-                auto [at, weight, index] = busy.top();
+        for (int i = 0; i < (int)servers.size(); i++) {
+            idle.push({servers[i], i});
+        }
+
+        long long ts = 0;
+        vector<int> ans(tasks.size());
+
+        auto release = [&](long long time) {
+            while (!busy.empty() && busy.top().first <= time) {
+                int idx = busy.top().second;
                 busy.pop();
-                free.push({0, weight, index});
+                idle.push({servers[idx], idx});
             }
-            MinHeap& from = free.empty() ? busy : free;  // none free: the first to finish takes it
-            auto [at, weight, index] = from.top();
-            from.pop();
-            busy.push({max<long long>(at, s) + tasks[s], weight, index});
-            ans.push_back(index);
+        };
+
+        for (int i = 0; i < (int)tasks.size(); i++) {
+            ts = max(ts, (long long)i);
+            release(ts);
+            if (idle.empty()) {
+                ts = busy.top().first;
+                release(ts);
+            }
+
+            int idx = idle.top().second;
+            idle.pop();
+            ans[i] = idx;
+            busy.push({ts + tasks[i], idx});
         }
 
         return ans;
