@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -724,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -1224,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1403,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2104-sum-of-subarray-ranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2751-robot-collisions/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1417,6 +1421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1604,11 +1609,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
