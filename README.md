@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1340-jump-game-v/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -810,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1447-simplified-fractions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1447-simplified-fractions/) | Medium |
 | [1510-stone-game-iv](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1622-fancy-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1622-fancy-sequence/) | Hard |
@@ -1161,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1140-stone-game-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1314-matrix-block-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1732-find-the-highest-altitude/) | Easy |
