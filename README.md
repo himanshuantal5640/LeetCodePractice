@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -610,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -885,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -1148,6 +1151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -1294,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-check-knight-tour-configuration](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuantal5640/LeetCodePractice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
